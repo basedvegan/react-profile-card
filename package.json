@@ -1,4 +1,5 @@
-{ "homepage": "https://github.com/basedvegan/react-profile-card",
+{
+  "homepage": "https://github.com/basedvegan/react-profile-card",
   "name": "react-profile-card",
   "version": "0.1.0",
   "private": true,
